@@ -10,7 +10,7 @@ npm install
 npm start
 
 ### API Page
-http://localhost:8000//localservapi
+http://localhost:8000/localservapi/
 
 ### Posts and Gets
 - http://localhost:8000/servicos
